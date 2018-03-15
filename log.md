@@ -7,7 +7,15 @@ Taking on Kallaway's #100 Days Of Code. I had already planned on putting in the 
 
 **Thoughts:** After hitting my head against the wall for at least 3 days now, I finally completed this project. I still haven't understood the importance of preventDefault() and why it made my code work, as well as the difference between JSON and JSONP (callback=?). I think I'll figure it out eventually. Also, I want to get to a point where I can do these projects in vanilla JavaScript, as jQuery feels like a crutch much of the time.
 
-**Link to work:** 
+**Link to work:** [Wikipedia Viewer](https://codepen.io/sjcUofA/pen/yKNjbb)
+
+### Day 2: March 14, 2018
+
+**Today's Progress**: Started work on Twitch.tv API app. Most work today was making sure the API call worked and adjusting CSS.
+
+**Thoughts**: It's a bit late to be learning CSS but I finally understand the box structure of it. I was worried about implementing the API functions because I had so much issues before, but it's been much easier this time around.
+
+**Link(s) to work**: [twitch.tv JSON API](https://codepen.io/sjcUofA/pen/xWVzoB?editors=1111)
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
