@@ -17,6 +17,14 @@ Taking on Kallaway's #100 Days Of Code. I had already planned on putting in the 
 
 **Link(s) to work**: [twitch.tv JSON API](https://codepen.io/sjcUofA/pen/xWVzoB?editors=1111)
 
+### Day 3: March 15, 2018
+
+**Today's Progress**: Made progress on HTML layout and implemented JS to generate the channel boxes. Once I figure out what to do with offline channels and implement the "All", "Online", and "Offline" buttons, all that will be left would be CSS formatting.
+
+**Thoughts**: I made alright progress but did not work nearly as much as I would like to, mostly because of personal issues. Time to put in the hours starting this weekend.
+
+**Link(s) to work**: [twitch.tv JSON API](https://codepen.io/sjcUofA/pen/xWVzoB?editors=1111)
+
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
