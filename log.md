@@ -25,6 +25,14 @@ Taking on Kallaway's #100 Days Of Code. I had already planned on putting in the 
 
 **Link(s) to work**: [twitch.tv JSON API](https://codepen.io/sjcUofA/pen/xWVzoB?editors=1111)
 
+### Day 4: March 16, 2018
+
+**Today's Progress**: Made JavaScript display all channels and whether they are streaming. Also implemented all, online, and offline buttons. All that is remaining is CSS to make the web page easier on the eyes.
+
+**Thoughts**: I'm very satisfied with my work today, but now I feel like CSS3 has become my weak point. I think I'll give it a little extra time tomorrow before beginning the algorithm challenges in freeCodeCamp.
+
+**Link(s) to work**: [twitch.tv JSON API](https://codepen.io/sjcUofA/pen/xWVzoB?editors=1111)
+
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
