@@ -33,14 +33,13 @@ Taking on Kallaway's #100 Days Of Code. I had already planned on putting in the 
 
 **Link(s) to work**: [twitch.tv JSON API](https://codepen.io/sjcUofA/pen/xWVzoB?editors=1111)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 5: March 17, 2018
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Worked on some algorithm challenges, including giving the sum of all numbers between two given numbers and giving the elements of two arrays that are only unique to one array.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: I might need to do some reading on JavaScript since these challenges seem to require fundamentals.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: 
 
 
 
