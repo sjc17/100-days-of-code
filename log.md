@@ -41,5 +41,11 @@ Taking on Kallaway's #100 Days Of Code. I had already planned on putting in the 
 
 **Link(s) to work**: 
 
+### Day 6: March 18, 2018
 
+**Today's Progress**: Completed a number of algorithm challenges requiring uses of regular expressions.
+
+**Thoughts**: These challenges get easier the more I do them. One thing that I am trying to learn is to solve problems without resorting to nesting multiple for loops and if statements. Essentially, making my code solutions more elegant. Looking at other code campers' solutions and redoing the problems with these new ideas in mind is really improving my skills.
+
+**Link(s) to work**: 
 
