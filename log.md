@@ -49,3 +49,10 @@ Taking on Kallaway's #100 Days Of Code. I had already planned on putting in the 
 
 **Link(s) to work**: 
 
+### Day 7: March 19, 2018
+
+**Today's Progress**: Three more challenges completed. However, I have hit a wall with a challenge to find the least common multiple of a range of numbers.
+
+**Thoughts**: I think there's nothing wrong with my solution's logic, but having it call functions within functions within a for loop causes it to take up so much time/resources that it's like there is an infinite loop. I'll need to take a second look to make sure that there's no infinite loop, but the code ran quite quickly when I wrote out every iteration of the loop manually so I doubt it.
+
+**Link(s) to work**: 
