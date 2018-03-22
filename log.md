@@ -64,3 +64,11 @@ Taking on Kallaway's #100 Days Of Code. I had already planned on putting in the 
 **Thoughts**: Recursion, regular expressions, set theory, and general attention to detail were tested here. I should be able to finish these challenges and get started on the Advanced Front-End Projects by tomorrow at this rate.
 
 **Link(s) to work**: 
+
+### Day 9: March 21, 2018
+
+**Today's Progress**: Only a single challenge done today, but it was a bit of a doozy. Currently stuck on understanding Javascript's Objects.
+
+**Thoughts**: I really need to separate my work area from my play area, as I got very distracted today and didn't get as much done. Java and Javascript treat Objects a little more differently than I thought, so I will have to do some research tomorrow.
+
+**Link(s) to work**: 
