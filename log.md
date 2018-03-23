@@ -72,3 +72,11 @@ Taking on Kallaway's #100 Days Of Code. I had already planned on putting in the 
 **Thoughts**: I really need to separate my work area from my play area, as I got very distracted today and didn't get as much done. Java and Javascript treat Objects a little more differently than I thought, so I will have to do some research tomorrow.
 
 **Link(s) to work**: 
+
+### Day 10: March 22, 2018
+
+**Today's Progress**: Completed all the algorithm challenges now. Now building the JavaScript calculator.
+
+**Thoughts**: This project has required significantly more planning than the websites that I've made previously. Most of my time will be spent on making a flowchart on paper tomorrow.
+
+**Link(s) to work**: https://codepen.io/sjcUofA/pen/EEXmxO
