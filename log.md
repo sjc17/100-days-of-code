@@ -80,3 +80,11 @@ Taking on Kallaway's #100 Days Of Code. I had already planned on putting in the 
 **Thoughts**: This project has required significantly more planning than the websites that I've made previously. Most of my time will be spent on making a flowchart on paper tomorrow.
 
 **Link(s) to work**: https://codepen.io/sjcUofA/pen/EEXmxO
+
+### Day 11: March 23, 2018
+
+**Today's Progress**: Implemented number buttons and math operations. Still need to fix them.
+
+**Thoughts**: Getting the behaviour exactly right for decimals and various edge cases is very tricky. I might need to scrap my code and start anew with more rigorous planning
+
+**Link(s) to work**: https://codepen.io/sjcUofA/pen/EEXmxO
