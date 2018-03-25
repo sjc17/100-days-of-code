@@ -88,3 +88,11 @@ Taking on Kallaway's #100 Days Of Code. I had already planned on putting in the 
 **Thoughts**: Getting the behaviour exactly right for decimals and various edge cases is very tricky. I might need to scrap my code and start anew with more rigorous planning
 
 **Link(s) to work**: https://codepen.io/sjcUofA/pen/EEXmxO
+
+### Day 12: March 24, 2018
+
+**Today's Progress**: Rewrote code to be slightly more elegant.
+
+**Thoughts**: Decimals is still not working. Might need to make code even more modular so that it can handle exceptions and edge cases well.
+
+**Link(s) to work**: https://codepen.io/sjcUofA/pen/EEXmxO
