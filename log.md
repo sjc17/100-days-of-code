@@ -93,6 +93,6 @@ Taking on Kallaway's #100 Days Of Code. I had already planned on putting in the 
 
 **Today's Progress**: Rewrote code to be slightly more elegant.
 
-**Thoughts**: Decimals is still not working. Might need to make code even more modular so that it can handle exceptions and edge cases well.
+**Thoughts**: Decimals is still not working. Might need to make code even more modular so that it can handle exceptions and edge cases well. Today was very busy so unfortunately I didn't get to put more than an hour on this project.
 
 **Link(s) to work**: https://codepen.io/sjcUofA/pen/EEXmxO
