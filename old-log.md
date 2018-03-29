@@ -96,3 +96,5 @@ Taking on Kallaway's #100 Days Of Code. I had already planned on putting in the 
 **Thoughts**: Decimals is still not working. Might need to make code even more modular so that it can handle exceptions and edge cases well. Today was very busy so unfortunately I didn't get to put more than an hour on this project.
 
 **Link(s) to work**: https://codepen.io/sjcUofA/pen/EEXmxO
+
+### **This challenge has been discontinued. I missed two days from re-evaluating my career situation and re-assessing the paths in life that I can take. Ultimately, web development/software engineering is still a career that I want to pursue, so I have begun a new challenge in the new (log.md)[log.md] file.**
