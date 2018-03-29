@@ -1,0 +1,16 @@
+# 100 Days Of Code - Log
+
+### Day 1: March 28, 2018
+Second attempt at Kallaway's 100 Days of Code Challenge. Last attempt I had second thoughts about my career choices, but now I will give this my all.
+
+**Today's Progress**: Finished off JavaScript calculator and began planning for the Pomodoro Clock project on freeCodeCamp.
+
+**Thoughts:** I finally found the last issue with my calculator: assigning *array1 = array2* makes both *array1* and *array2* reference the same array.
+With that last little bug gone, the calculator works beautifully, with keyboard support included.
+
+**Plan for tomorrow:** Finish planning pomodoro clock and make some progress. Polish off JavaScript calculator and make it pretty, and then make a new repo for it on GitHub.
+
+**Hours Committed:** 2
+
+**Link to work:** [JavaScript Calculator](https://codepen.io/sjcUofA/pen/EEXmxO)
+
