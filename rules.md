@@ -1,17 +1,19 @@
 # Rules of the 100 Days Of Code Challenge
 
 ## Main Commitment
-### *I will code for at least an hour every day for the next 100 days.*
+### *I will code for at least 2 hours every day for the next 100 days.*
+### *On days off of work, I will code for at least 8 hours.*
 
 #### Start Date
-June 25th, 2016. [PUT YOUR DATE HERE]
+March 28, 2018
 
 ## Additional Rules
-1. I will tweet about my progress every day -> using the hashtag #100DaysOfCode
-2. If I code at work, that time won't count towards the challenge.
-3. I will push code to GitHub every day so that anyone can see my progress.
-4. I will update the (Log)[log.md] with the day's progress and provide a link so that others can see my progress.
-5. I will work on real projects, facing real challenges. The time spent doing tutorials, online courses and other similar resources will NOT count towards this challenge. (If you've just started learning to code, read [FAQ](FAQ.md))
+1. Only freeCodeCamp projects/coursework and my own real projects count towards this challenge. Tutorials, online courses, and other similar resources will NOT count towards this challenge.
+2. If any distractions are present (Other youtube videos, non-tech related articles, TV), my time spent will NOT count. Deep work is highly valuable and it is important to maintain full focus for maximum learning and productivity.
+3. For projects outside of codepen.io, I will push code towards GitHub.
+4. I will tweet about my 10 day progress milestones using the hashtag #100DaysOfCode
+5. I will update the (Log)[log.md] with the day's progress/hours worked and provide a link so that others can see my progress.
+6. One missed day in two weeks is the acceptable limit. Missing two days in a row is an automatic restart.
 
 
 ## Ideas to make this challenge more effective
