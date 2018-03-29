@@ -12,7 +12,7 @@ March 28, 2018
 2. If any distractions are present (Other youtube videos, non-tech related articles, TV), my time spent will NOT count. Deep work is highly valuable and it is important to maintain full focus for maximum learning and productivity.
 3. For projects outside of codepen.io, I will push code towards GitHub.
 4. I will tweet about my 10 day progress milestones using the hashtag #100DaysOfCode
-5. I will update the (Log)[log.md] with the day's progress/hours worked and provide a link so that others can see my progress.
+5. I will update the [log.md](Log) with the day's progress/hours worked and provide a link so that others can see my progress.
 6. One missed day in two weeks is the acceptable limit. Missing two days in a row is an automatic restart.
 
 
