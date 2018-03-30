@@ -14,3 +14,14 @@ With that last little bug gone, the calculator works beautifully, with keyboard 
 
 **Link to work:** [JavaScript Calculator](https://codepen.io/sjcUofA/pen/EEXmxO)
 
+### Day 2: March 29, 2018
+
+**Today's Progress**: Started and completed Pomodoro Timer and pushed code onto GitHub.
+
+**Thoughts:** I'm really happy with my speedy progress so far. If tomorrow is anything like today, I will finish the entire Tic Tac Toe game then too, and potentially the entire front-end development curriculum by the end of the weekend!
+
+**Plan for tomorrow:** Work on Tic Tac Toe game. Possibly polish older projects and push code onto GitHub to add to my current portfolio.
+
+**Hours Committed:** 8
+
+**Link to work:** [Pomodoro Timer](https://codepen.io/sjcUofA/pen/BrYQOg)
