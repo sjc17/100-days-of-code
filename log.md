@@ -25,3 +25,15 @@ With that last little bug gone, the calculator works beautifully, with keyboard 
 **Hours Committed:** 8
 
 **Link to work:** [Pomodoro Timer](https://codepen.io/sjcUofA/pen/BrYQOg)
+
+### Day 3: March 30, 2018
+
+**Today's Progress**: Made good progress on Tic Tac Toe. Also pushed pomodoro timer code onto GitHub.
+
+**Thoughts:** Less time today than yesterday, but I've made decent progress. Hopefully I can get this done by tomorrow and the final project before Monday or Tuesday so that I can start learning React\.js/back-end things.
+
+**Plan for tomorrow:** Finish Tic Tac Toe game, push code onto GitHub, and get started on Simon Game.
+
+**Hours Committed:** 4
+
+**Link to work:** [Tic Tac Toe](https://codepen.io/sjcUofA/pen/bvvwwR)
