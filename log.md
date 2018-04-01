@@ -37,3 +37,15 @@ With that last little bug gone, the calculator works beautifully, with keyboard 
 **Hours Committed:** 4
 
 **Link to work:** [Tic Tac Toe](https://codepen.io/sjcUofA/pen/bvvwwR)
+
+### Day 4: March 31, 2018
+
+**Today's Progress**: Tried to redo code for tic tac toe to implement a minimax algorithm, allowing the computer to compute the optimal decision each time. 
+
+**Thoughts:** Read some discussions on implementing tic tac toe in Java and I might remake a lot of the code.
+
+**Plan for tomorrow:** Continue to work on Tic Tac Toe.
+
+**Hours Committed:** 3
+
+**Link to work:** [Tic Tac Toe](https://codepen.io/sjcUofA/pen/bvvwwR)
