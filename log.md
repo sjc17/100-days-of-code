@@ -49,3 +49,15 @@ With that last little bug gone, the calculator works beautifully, with keyboard 
 **Hours Committed:** 3
 
 **Link to work:** [Tic Tac Toe](https://codepen.io/sjcUofA/pen/bvvwwR)
+
+### Day 5: April 1, 2018
+
+**Today's Progress**: Eliminated minimax algorithm, replaced with hard-coded logic.
+
+**Thoughts:** I had actually implemented the minimax algorithm successfully for the computer to search all decision trees and select the optimal one, but it took such a long time on each turn that I had to replace that AI with simpler functions which now work.
+
+**Plan for tomorrow:** Add score, animations, CSS. Begin Simon project.
+
+**Hours Committed:** 6
+
+**Link to work:** [Tic Tac Toe](https://codepen.io/sjcUofA/pen/bvvwwR)
