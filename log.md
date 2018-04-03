@@ -61,3 +61,16 @@ With that last little bug gone, the calculator works beautifully, with keyboard 
 **Hours Committed:** 6
 
 **Link to work:** [Tic Tac Toe](https://codepen.io/sjcUofA/pen/bvvwwR)
+
+### Day 6: April 2, 2018
+
+**Today's Progress**: Completed Tic Tac Toe game (mainly CSS). Work was exhausting, so not too much in terms of productivity.
+
+**Thoughts:** Overall the game was definitely a nontrivial exercise. I think it's easy to underestimate how much time really goes into even basic applications like this game, especially for people without a technical background. Even knowing what to expect, I felt that this was tougher than I thought.
+
+**Plan for tomorrow:** Work on Simon Game
+
+**Hours Committed:** 2
+
+**Link to work:** [Tic Tac Toe](https://codepen.io/sjcUofA/pen/bvvwwR)
+https://github.com/sjcUofA/Tic-Tac-Toe-Game
