@@ -74,3 +74,15 @@ With that last little bug gone, the calculator works beautifully, with keyboard 
 
 **Link to work:** [Tic Tac Toe](https://codepen.io/sjcUofA/pen/bvvwwR)
 https://github.com/sjcUofA/Tic-Tac-Toe-Game
+
+### Day 7: April 3, 2018
+
+**Today's Progress**: Created buttons in CSS using a single div element. Added audio for button presses.
+
+**Thoughts:** I learned a lot in terms of CSS with this exercise. I'm still not sure about taking on a position for pure front-end web development - I will understand where I belong more once I've delved into the back-end curriculum.
+
+**Plan for tomorrow:** Fix audio and button lighting on press.
+
+**Hours Committed:** 5
+
+**Link to work:** [Simon Game](https://github.com/sjcUofA/Simon-Game)
