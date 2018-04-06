@@ -87,11 +87,23 @@ https://github.com/sjcUofA/Tic-Tac-Toe-Game
 
 **Link to work:** [Simon Game](https://github.com/sjcUofA/Simon-Game)
 
-### Day 7: April 3, 2018
+### Day 7: April 4, 2018
 
 **Today's Progress**: Added reset button for new game and separated functions for clicking buttons from lighting them up.
 
 **Thoughts:** I am using a lot of functions that reach into the global scope for their variables - I hope this practice won't kill me later in my career. For these projects it seems to be good enough.
+
+**Plan for tomorrow:** Game functionality
+
+**Hours Committed:** 2
+
+**Link to work:** [Simon Game](https://github.com/sjcUofA/Simon-Game)
+
+### Day 8: April 5, 2018
+
+**Today's Progress**: Began writing functionality for game state to progress (showing button presses, then waiting for user to press).
+
+**Thoughts:** I will likely end up nesting several function calls for the game state. We will see if there's no performance drop. It was acceptable for the Tic Tac Toe project I completed earlier.
 
 **Plan for tomorrow:** Game functionality
 
