@@ -86,3 +86,15 @@ https://github.com/sjcUofA/Tic-Tac-Toe-Game
 **Hours Committed:** 5
 
 **Link to work:** [Simon Game](https://github.com/sjcUofA/Simon-Game)
+
+### Day 7: April 3, 2018
+
+**Today's Progress**: Added reset button for new game and separated functions for clicking buttons from lighting them up.
+
+**Thoughts:** I am using a lot of functions that reach into the global scope for their variables - I hope this practice won't kill me later in my career. For these projects it seems to be good enough.
+
+**Plan for tomorrow:** Game functionality
+
+**Hours Committed:** 2
+
+**Link to work:** [Simon Game](https://github.com/sjcUofA/Simon-Game)
