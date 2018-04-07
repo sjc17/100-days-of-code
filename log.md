@@ -110,3 +110,15 @@ https://github.com/sjcUofA/Tic-Tac-Toe-Game
 **Hours Committed:** 2
 
 **Link to work:** [Simon Game](https://github.com/sjcUofA/Simon-Game)
+
+### Day 9: April 6, 2018
+
+**Today's Progress**: Fixed buttons to work for different browser sizes.
+
+**Thoughts:** While I am happy with my progress, I wish it wouldn't happen in the last 5 minutes of the day. Though I guess this is part of the 80-20 rule: 80% of the rewards come from 20% of the time invested, or something of that sort.
+
+**Plan for tomorrow:** Attend the Monthly Hack Day here in Edmonton and complete this Simon Game.
+
+**Hours Committed:** 3
+
+**Link to work:** [Simon Game](https://github.com/sjcUofA/Simon-Game)
