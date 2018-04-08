@@ -122,3 +122,15 @@ https://github.com/sjcUofA/Tic-Tac-Toe-Game
 **Hours Committed:** 3
 
 **Link to work:** [Simon Game](https://github.com/sjcUofA/Simon-Game)
+
+### Day 10: April 7, 2018
+
+**Today's Progress**: Completed the Simon Game, and consequently the entire freeCodeCamp front-end development certification.
+
+**Thoughts:** Today revealed to me the value of A) Finding a solid work environment to be productive and B) Networking and getting myself out there. I believe my plan from here will be to learn the corresponding back-end technologies and start getting more projects out there.
+
+**Plan for tomorrow:** Start going through fCC back-end/Nodeschool.io and begin making my portfolio page.
+
+**Hours Committed:** 4
+
+**Link to work:** [Simon Game](https://github.com/sjcUofA/Simon-Game)
