@@ -134,3 +134,15 @@ https://github.com/sjcUofA/Tic-Tac-Toe-Game
 **Hours Committed:** 4
 
 **Link to work:** [Simon Game](https://github.com/sjcUofA/Simon-Game)
+
+### Day 11: April 8, 2018
+
+**Today's Progress**: Worked through learning npm, beginning freeCodeCamp BackEnd Certification.
+
+**Thoughts:** Something seems to be off with my development environment or Node/NPM installation because the how-to-npm module is not playing nicely at a lot of points. It's frustrating and I may skip parts of the tutorial if I can't make it work, at least for the moment.
+
+**Plan for tomorrow:** Continue fCC backend
+
+**Hours Committed:** 2
+
+**Link to work:** 
