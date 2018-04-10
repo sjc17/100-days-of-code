@@ -146,3 +146,15 @@ https://github.com/sjcUofA/Tic-Tac-Toe-Game
 **Hours Committed:** 2
 
 **Link to work:** 
+
+### Day 12: April 9, 2018
+
+**Today's Progress**: Learned npm and began learning Node through learnyounode.
+
+**Thoughts:** It was fairly straightforward until hitting the parts on making modules. Working with callback functions is still confusing by a good amount, but I should be able to work through this within the day tomorrow.
+
+**Plan for tomorrow:** Continue fCC backend
+
+**Hours Committed:** 2
+
+**Link to work:** 
