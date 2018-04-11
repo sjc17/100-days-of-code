@@ -145,8 +145,6 @@ https://github.com/sjcUofA/Tic-Tac-Toe-Game
 
 **Hours Committed:** 2
 
-**Link to work:** 
-
 ### Day 12: April 9, 2018
 
 **Today's Progress**: Learned npm and began learning Node through learnyounode.
@@ -157,4 +155,12 @@ https://github.com/sjcUofA/Tic-Tac-Toe-Game
 
 **Hours Committed:** 2
 
-**Link to work:** 
+### Day 13: April 10, 2018
+
+**Today's Progress**: Took a detour and began the Harvard course CS50 (Intro to Computing Science) and installed Ubuntu for dual boot on the PC.
+
+**Thoughts:** Going back to the basics with C was fairly enjoyable. I plan on going through a week's worth of lectures and assignments for each day off of work to get through this course relatively quickly. I believe I need a stronger fundamental base of comp sci knowledge, since I don't have a comp sci degree. Hopefully this is an investment that pays well in the future.
+
+**Plan for tomorrow:** Continue CS50, fCC backend.
+
+**Hours Committed:** 4
