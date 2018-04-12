@@ -164,3 +164,13 @@ https://github.com/sjcUofA/Tic-Tac-Toe-Game
 **Plan for tomorrow:** Continue CS50, fCC backend.
 
 **Hours Committed:** 4
+
+### Day 14: April 11, 2018
+
+**Today's Progress**: Worked on CS50's problem set 2 a little
+
+**Thoughts:** Today was very, very tiring at work. Did not have the willpower to do more than one hour.
+
+**Plan for tomorrow:** Continue CS50, fCC backend.
+
+**Hours Committed:** 1
