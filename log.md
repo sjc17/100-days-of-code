@@ -174,3 +174,13 @@ https://github.com/sjcUofA/Tic-Tac-Toe-Game
 **Plan for tomorrow:** Continue CS50, fCC backend.
 
 **Hours Committed:** 1
+
+### Day 15: April 12, 2018
+
+**Today's Progress**: Completed problem set 2!
+
+**Thoughts:** Relearning C and dealing with static typing was very interesting. Hopefully I can go through this introductory material quickly so that I can learn more in depth computing science concepts - especially algorithms.
+
+**Plan for tomorrow:** Continue CS50.
+
+**Hours Committed:** 4
