@@ -184,3 +184,13 @@ https://github.com/sjcUofA/Tic-Tac-Toe-Game
 **Plan for tomorrow:** Continue CS50.
 
 **Hours Committed:** 4
+
+### Day 16: April 13, 2018
+
+**Today's Progress**: Viewed CS50 lecture week 2 and continued working through learnyounode on Node.js
+
+**Thoughts:** I'm glad to be starting on the real computing science theory that CS50 has to offer like sorting algorithms and how to compare their performance, as well as big O/theta notation. It didn't involve any coding however, so my actual coding time was limited to learnyounode. I am getting a much clearer picture of what backend programming with Node.js looks like now, and I am excited to power through fCC's back-end portion like I did for the front-end.
+
+**Plan for tomorrow:** Continue CS50, fCC backend.
+
+**Hours Committed:** 2
