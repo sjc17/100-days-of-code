@@ -194,3 +194,13 @@ https://github.com/sjcUofA/Tic-Tac-Toe-Game
 **Plan for tomorrow:** Continue CS50, fCC backend.
 
 **Hours Committed:** 2
+
+### Day 17: April 14, 2018
+
+**Today's Progress**: Completed learnyounode module on Nodejs
+
+**Thoughts:** I'm not prioritizing my learning as much as I should, considering that I want to find employment sooner rather than later. I'll ramp up the hours committed starting from now!
+
+**Plan for tomorrow:** Continue CS50, begin learning Express.js
+
+**Hours Committed:** 2
