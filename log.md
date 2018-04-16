@@ -204,3 +204,13 @@ https://github.com/sjcUofA/Tic-Tac-Toe-Game
 **Plan for tomorrow:** Continue CS50, begin learning Express.js
 
 **Hours Committed:** 2
+
+### Day 18: April 15, 2018
+
+**Today's Progress**: Completed Express module on Nodejs
+
+**Thoughts:** Backend development seems really exciting, and I'm finally piecing together the full picture for web development! Once I learn non-relational databases, it's time to begin developing APIs.
+
+**Plan for tomorrow:** Continue CS50, begin learning MongoDB. Possibly begin Wesbos' Javascript30.
+
+**Hours Committed:** 3
