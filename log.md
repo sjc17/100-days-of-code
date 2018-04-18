@@ -214,3 +214,23 @@ https://github.com/sjcUofA/Tic-Tac-Toe-Game
 **Plan for tomorrow:** Continue CS50, begin learning MongoDB. Possibly begin Wesbos' Javascript30.
 
 **Hours Committed:** 3
+
+### Day 19: April 16, 2018
+
+**Today's Progress**: Continued work on learnyoumongo, fCC backend.
+
+**Thoughts:** Much too tired to do more than an hour. I ran into a ton of issues with the learnyoumongo module, and from what I've seen, all the "learnyou" modules are plagued with issues. Most of my time was spent researching/planning for some websites I will be making coming up.
+
+**Plan for tomorrow:** Continue learnyoumongo
+
+**Hours Committed:** 1
+
+### Day 20: April 17, 2018
+
+**Today's Progress**: Tried continuing with learnyoumongo.
+
+**Thoughts:** The learning module requires v2.2.3 of MongoDB, and we're already on 3.6. I'm not going to waste any more time with this module. Unlike the first 10 days, I've hardly made any progress! That will definitely change starting tomorrow. I might have to abandon learning the MEAN/MERN stack for now and focus on my projects now, with CS50 and Javascript30 to refine my fundamentals.
+
+**Plan for tomorrow:** Continue CS50, possibly begin Wesbos' Javascript30. 
+
+**Hours Committed:** 2
