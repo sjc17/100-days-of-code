@@ -234,3 +234,15 @@ https://github.com/sjcUofA/Tic-Tac-Toe-Game
 **Plan for tomorrow:** Continue CS50, possibly begin Wesbos' Javascript30. 
 
 **Hours Committed:** 2
+
+### Day 21: April 18, 2018
+
+**Today's Progress**: Purchased domain name, got SSL protection up and running, and set up a Jekyll theme + made my basic website.
+
+**Thoughts:** I finally have my website running! I think I will put my old projects in the projects section once I refactor the code and make them much prettier than they are now. Alternatively, I could just wait until I complete some bigger apps (CRUD apps, or React apps). Glad to have a finished product at the moment. Something that I learned is that there are a ton of themes available, and they all fill different roles (Blogging, Portfolio, Simplistic Landing Page). I think I will define my objectives clearly in the future so that I don't waste time trying out an option before deciding that it doesn't fit my needs.
+
+**Plan for tomorrow:** Continue freeCodeCamp backend. Work on other projects (websites for friends).
+
+**Hours Committed:** 8
+
+**Link to Work:** [Portfolio Page](https://stevenjchoi.com)
