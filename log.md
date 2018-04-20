@@ -246,3 +246,15 @@ https://github.com/sjcUofA/Tic-Tac-Toe-Game
 **Hours Committed:** 8
 
 **Link to Work:** [Portfolio Page](https://stevenjchoi.com)
+
+### Day 22: April 18, 2018
+
+**Today's Progress**: (Mostly research/learning) Took a quick course in Gulp and read up on Jekyll.
+
+**Thoughts:** I've been debating whether to create a blog. If I do go with it, I'll need to create my own portfolio theme to A) Demonstrate front end skills and B) Add blog functionality (current theme doesn't have it). Static site generators seem relaly nice, and Gulp is definitely a technology that I will make use of in the future. I need to figure out what kind of app I want to build soon so that I have a project to work on.
+
+**Plan for tomorrow:** Continue freeCodeCamp backend. Work on other projects (websites for friends).
+
+**Hours Committed:** 1
+
+**Link to Work:** [Portfolio Page](https://stevenjchoi.com)
