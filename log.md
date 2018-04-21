@@ -258,3 +258,15 @@ https://github.com/sjcUofA/Tic-Tac-Toe-Game
 **Hours Committed:** 1
 
 **Link to Work:** [Portfolio Page](https://stevenjchoi.com)
+
+### Day 23: April 19, 2018
+
+**Today's Progress**: Began work on the fCC Timestamp Microservice project
+
+**Thoughts:** I think without a habit of setting to work on code every day, it will be very difficult to get the hours of experience and the projects I need to become a developer. I will try to be more consistent with this from now on.
+
+**Plan for tomorrow:** Continue freeCodeCamp backend. Work on other projects (websites for friends).
+
+**Hours Committed:** 1
+
+**Link to Work:** [Timestamp Microservice](https://sjc-timestamp-microservice.glitch.me/)
