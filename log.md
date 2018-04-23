@@ -281,4 +281,4 @@ https://github.com/sjcUofA/Tic-Tac-Toe-Game
 
 **Hours Committed:** 3
 
-**Link to Work:** [Timestamp Microservice](https://sjc-timestamp-microservice.glitch.me/)
+**Link to Work:** [Timestamp Microservice](https://sjc-timestamp-microservice.glitch.me/) [Request Header Parser](https://sjc-request-header-parser.glitch.me/)
