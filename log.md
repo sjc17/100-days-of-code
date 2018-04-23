@@ -247,7 +247,7 @@ https://github.com/sjcUofA/Tic-Tac-Toe-Game
 
 **Link to Work:** [Portfolio Page](https://stevenjchoi.com)
 
-### Day 22: April 18, 2018
+### Day 22: April 19, 2018
 
 **Today's Progress**: (Mostly research/learning) Took a quick course in Gulp and read up on Jekyll.
 
@@ -259,7 +259,7 @@ https://github.com/sjcUofA/Tic-Tac-Toe-Game
 
 **Link to Work:** [Portfolio Page](https://stevenjchoi.com)
 
-### Day 23: April 19, 2018
+### Day 23: April 20, 2018
 
 **Today's Progress**: Began work on the fCC Timestamp Microservice project
 
@@ -268,5 +268,17 @@ https://github.com/sjcUofA/Tic-Tac-Toe-Game
 **Plan for tomorrow:** Continue freeCodeCamp backend. Work on other projects (websites for friends).
 
 **Hours Committed:** 1
+
+**Link to Work:** [Timestamp Microservice](https://sjc-timestamp-microservice.glitch.me/)
+
+### Day 24: April 21, 2018
+
+**Today's Progress**: Completed timestamp microservice and request header parser microservice projects
+
+**Thoughts:** These weren't too bad.
+
+**Plan for tomorrow:** Continue freeCodeCamp backend. Work on other projects (websites for friends).
+
+**Hours Committed:** 3
 
 **Link to Work:** [Timestamp Microservice](https://sjc-timestamp-microservice.glitch.me/)
