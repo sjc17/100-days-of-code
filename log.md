@@ -282,3 +282,15 @@ https://github.com/sjcUofA/Tic-Tac-Toe-Game
 **Hours Committed:** 3
 
 **Link to Work:** [Timestamp Microservice](https://sjc-timestamp-microservice.glitch.me/) [Request Header Parser](https://sjc-request-header-parser.glitch.me/)
+
+### Day 25: April 22, 2018
+
+**Today's Progress**: Made good progress on the url shortener microservice.
+
+**Thoughts:** Very cool project so far. It makes me wonder which design decisions the developers of bit.ly or twitter or other popular url shortening services made in creating these products.
+
+**Plan for tomorrow:** Continue freeCodeCamp backend. Work on other projects (websites for friends).
+
+**Hours Committed:** 3
+
+**Link to Work:** [Url Shortener](https://sjc-url-shortener.glitch.me/)
