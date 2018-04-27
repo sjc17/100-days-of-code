@@ -294,3 +294,21 @@ https://github.com/sjcUofA/Tic-Tac-Toe-Game
 **Hours Committed:** 3
 
 **Link to Work:** [Url Shortener](https://sjc-url-shortener.glitch.me/)
+
+### Day 26: April 23, 2018
+
+**Today's Progress**: Finished url shortener
+
+**Hours Committed:** 3
+
+**Link to Work:** [Url Shortener](https://sjc-url-shortener.glitch.me/)
+
+### April 24, 2018
+
+**Skipped**
+
+### Day 27: April 25, 2018
+
+**Today's Progress**: Began image search abstraction layer
+
+**Hours Committed:** 1
